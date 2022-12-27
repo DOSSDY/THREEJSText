@@ -25,7 +25,7 @@ const scene = new THREE.Scene();
  * Textures
  */
 const textureLoader = new THREE.TextureLoader();
-const matcapTextTexture = textureLoader.load("/textures/matcaps/7.png");
+const matcapTextTexture = textureLoader.load("/textures/matcaps/10.png");
 const matcapBoxTexture = textureLoader.load("/textures/matcaps/9.png");
 // const matcapBitcoinTexture = textureLoader.load("/textures/matcaps/11.png");
 /**
